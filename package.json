@@ -1,0 +1,22 @@
+{
+  "name": "mapetto",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youyeke/mapetto.git"
+  },
+  "keywords": [
+    "mapetto"
+  ],
+  "author": "youyeke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/youyeke/mapetto/issues"
+  },
+  "homepage": "https://github.com/youyeke/mapetto#readme"
+}
